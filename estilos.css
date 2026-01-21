@@ -1,0 +1,136 @@
+
+header{
+   width:475px;
+   margin:0 auto;
+   position:relative;
+   font-family:alegreya-light;
+   font-size:24px;
+   color: rgb(255, 230, 3);
+}
+
+#franja{
+   width:100%;
+   position:absolute;
+   top:0;
+   left:0;
+   height:100px;
+   background-color:#313B44;
+   border-bottom:6px black solid;
+}
+
+nav{
+   width:1050px;
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:50px;
+   font-family:alegreya-bold;
+   color:rgb(255, 255, 255);
+   font-size:25px;
+ }
+
+nav li{
+   list-style:none;
+   display:inline-block;
+   padding:4px 70px;
+   text-align:center;
+   background-color:rgb(255, 255, 255);
+}
+
+#contenido2{
+    width:1100px;
+    margin:0 auto;
+ }
+ 
+ form{
+    font-size:14px;
+    color:#000000;
+    border-radius:7px;
+    background-color:#D4DAE4;
+    border:1px dotted #567f0f;
+    padding:14px;
+ }
+ 
+ fieldset{
+    border-radius:6px;
+    border:1px dotted gray;
+    margin-bottom:15px;
+    padding:0 20px;
+ }
+ 
+ legend{
+    color:rgb(255, 0, 0);
+    font-size:20px;
+    margin-bottom:20px;
+ }
+ 
+ input{
+    background-color:white;
+    border-radius:4px;
+    color:#264F96;
+    font-size:16px;
+    padding:3px 3px 3px 10px;
+    outline: none;
+ }
+ 
+ #boton_enviar{
+    padding:6px 30px;
+    background-color:#2A477A;
+    color:white;
+    font-size:14px;
+ }
+ 
+ #boton_enviar:hover{
+    cursor:pointer;
+    background-color:#5376B2;
+ }
+ 
+ textarea{
+    border-radius:4px;
+    color:#264F96;
+    font-size:16px;
+    padding:3px 3px 3px 10px;
+ }
+ 
+ [required]{
+    border-color:#4AA248;
+    box-shadow:0 0 3px #4AA248;
+ }
+ 
+ :invalid{
+    border-color:#000000;
+    box-shadow:0 0 3px #ffffff;
+ }
+
+ footer{
+   clear:both;
+   font-family:alegreya-light;
+   font-size:13px;
+   color:rgb(0, 0, 0);
+}
+
+ footer{
+   width:1000px;
+   margin:0 auto;
+   position:relative;
+   padding-top:12px;
+   color:white;
+   font-family:alegreya-light;
+   font-size:14px;
+}
+
+#franja_final{
+   width:100%;
+   position:absolute;
+   left:0;
+   background-color:#313B44;
+   height:60px;
+   border-top:6px black solid;
+}
+
+#titulo{
+   color: #264F96;
+   font-size: 26px;
+
+}
+
+

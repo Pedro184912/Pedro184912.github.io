@@ -1,0 +1,1 @@
+alert("¡Bienvenido! Pulsa aceptar si quieres aprender contenidos nuevos sobre la ecultura grecolatina.");
